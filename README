@@ -1,1 +1,11 @@
-Repository for Caribe-EWS codes for travel time models of different 
+Repository for Caribe-EWS codes for detection time models of different seismic station geometries. 
+
+Calculation script: DetectTime_Generic - python notebook to calculate detection time. Requires Obspy, Pandas, and Numpy
+Example Plotting script: Plot_TTGeneric-  Script to plat results of DetectTime_Generic using PyGMT. 
+Example Data: carib_stats.csv; A CSV file containing the station locations. 
+
+To run the code: 
+1. run DetectTime_Generic after changing parameters of choice in the notbok
+2. run the plot script to produce the map 
+
+
