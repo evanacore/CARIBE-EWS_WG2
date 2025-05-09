@@ -6,7 +6,7 @@ Example Plotting script: Plot_TTGeneric-  Script to plot results of DetectTime_G
 Example Data: carib_stats.csv; A CSV file containing the station locations. 
 
 To run the code: 
-1. run DetectTime_Generic after changing parameters of choice in the notbok
-2. run the plot script to produce the map 
+1. run DetectTime_General after changing parameters of choice in the notbok
+2. run the plotting script, Plot_TTGeneric to produce the map 
 
 
